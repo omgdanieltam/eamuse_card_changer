@@ -1,5 +1,5 @@
 # eamuse_card_changer
-PHP based e-amusement card changer
+Web based e-amusement card changer
 
 #INTRODUCTION
 Allows the use of a web browser to change the e-amusement card text file. Just point the tools to this file, then change it before you 'insert' the card.
