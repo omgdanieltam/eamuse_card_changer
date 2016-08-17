@@ -1,4 +1,4 @@
-# eamuse_card_changer
+# web_card_changer
 Web based e-amusement card changer
 
 #INTRODUCTION
